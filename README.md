@@ -40,23 +40,16 @@ This repository contains Apache Spark code for analyzing home sales data. The an
 The cached query with the original data had a runtime of approximately 1.11 seconds, while the uncached query took approximately 1.31 seconds. With the partitioned parquet data, the cached queries had a runtime of approximately 0.94 seconds. The cached query demonstrated improved performance due to data caching, reducing the runtime compared to the uncached query for the original dataset.
 
 
-
-
-
 #### Instructions for Google Colab
 
 ##### 1. Open Google Colab:
-
-   Go to [Google Colab](https://colab.research.google.com/) and sign in with your Google account.
-
+   - Go to [Google Colab](https://colab.research.google.com/) and sign in with your Google account.
 ##### 2. Open In Colab:
-   
-   Click the "Open in Colab" button at the top of the code file to open it directly in Google Colab.
-
+   - Click the "Open in Colab" button at the top of the code file to open it directly in Google Colab.
 ##### 3. Run the Code:
-   Run each cell sequentially by clicking the play button or pressing Shift+Enter.
+   - Run each cell sequentially by clicking the play button or pressing Shift+Enter.
 ##### 4. Review Results:
-   Review the outputs and analysis results in the Colab cells to gain insights into home sales trends.
+   - Review the outputs and analysis results in the Colab cells to gain insights into home sales trends.
 
 
 
