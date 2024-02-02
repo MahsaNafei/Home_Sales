@@ -51,7 +51,7 @@ The cached query with the original data had a runtime of approximately 1.11 seco
 
 ##### 2. Open In Colab:
    
-    Click the "Open in Colab" button at the top of the code file to open it directly in Google Colab.
+   Click the "Open in Colab" button at the top of the code file to open it directly in Google Colab.
 
 ##### 3. Run the Code:
    Run each cell sequentially by clicking the play button or pressing Shift+Enter.
