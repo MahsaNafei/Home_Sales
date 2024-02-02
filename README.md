@@ -42,16 +42,13 @@ The cached query with the original data had a runtime of approximately 1.11 seco
 
 #### Instructions for Google Colab
 
-1. **Open Google Colab:**
+##### 1. Open Google Colab:
    - Go to [Google Colab](https://colab.research.google.com/) and sign in with your Google account.
-
-2. **Open In Colab:**
+##### 2. Open In Colab:
    - Click the "Open in Colab" button at the top of the code file to open it directly in Google Colab.
-
-3. **Run the Code:**
+##### 3. Run the Code:
    - Run each cell sequentially by clicking the play button or pressing Shift+Enter.
-
-4. **Review Results:**
+##### 4. Review Results:
    - Review the outputs and analysis results in the Colab cells to gain insights into home sales trends.
 
 
